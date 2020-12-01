@@ -1,1 +1,1 @@
-This is my neural networks model library. I'm just a beginner...:)
+Hi!This is my neural networks model library.Don't laugh at me.I'm just a beginner:)
